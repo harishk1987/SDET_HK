@@ -6,6 +6,6 @@ public class DemoGit {
 @Test
 public void demoGit()
 {
-	System.out.println("this is user 1  first commitss");
+	System.out.println("thiss is user 1  first commitss");
 }
 }
